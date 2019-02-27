@@ -10,7 +10,7 @@ def argue(derp)
   derp
 end
 
-def greeting
+def greeting(first, second)
 
 end
 

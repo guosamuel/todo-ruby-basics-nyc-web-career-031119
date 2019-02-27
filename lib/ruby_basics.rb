@@ -6,8 +6,8 @@ def assign_variable(value)
   var_name = value
 end
 
-def argue
-  
+def argue(derp)
+  derp
 end
 
 def greeting
